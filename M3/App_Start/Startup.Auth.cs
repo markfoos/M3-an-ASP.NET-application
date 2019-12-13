@@ -54,9 +54,9 @@ namespace M3
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            app.UseFacebookAuthentication(
-               appId: "1384368825078264",
-               appSecret: "c9a1dff8499bc49d2ce439afd3f53f16");
+          //  app.UseFacebookAuthentication(
+       //        appId: "1384368825078264",
+//              appSecret: "c9a1dff8499bc49d2ce439afd3f53f16");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
